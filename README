@@ -1,1 +1,7 @@
-Testing testing
+# SKR 2 Marlin Config
+
+Marlin configuration files for a BIGTREETECH SKR 2 board.
+
+- Firmware: Marlin 2.x
+- Board: SKR 2
+- Drivers: TMC2209
